@@ -1,4 +1,4 @@
-# ----- dwumian Newtona do łańcucha
+# ----- dwumian Newtona do łańcucha -----
 def dwumianNewtonaLancuch(n):
     wynik = ""
 
