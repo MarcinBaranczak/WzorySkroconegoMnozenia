@@ -1,2 +1,2 @@
 # WzorySkroconegoMnozenia
-Program napisany w Pythonie służący do tworzenia wzorów skróconego mnożenia.
+Program służący do tworzenia wzorów skróconego mnożenia za pomocą dwumianu Newtona.
