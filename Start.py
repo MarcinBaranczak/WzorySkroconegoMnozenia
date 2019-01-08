@@ -39,6 +39,6 @@ def silnia(wartosc):
 
 
 # ----- Program główny -----
-print("Tworzenie wzorów skróconego mnożenia za pomocą dwumianu Newtona.")
-pobierzP = int(input("podaj potęgę: "))
+print("Tworzenie wzorów skróconego mnożenia(x+y)^n za pomocą dwumianu Newtona.")
+pobierzP = int(input("podaj potęgę n: "))
 print("wynik: ", dwumianNewtonaLancuch(pobierzP))
